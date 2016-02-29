@@ -7,7 +7,10 @@ VLC is used with FollowBot (Will be replaced in the future with pygame)
 VLC needs to be in your environment varibles
 
 To start bot use:
-  python run.py
+```
+python run.py
+```
+  
 
 
 Once 
