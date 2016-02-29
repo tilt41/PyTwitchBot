@@ -10,19 +10,14 @@ To start bot use:
 ```
 python run.py
 ```
-  
-
-
-Once 
 
 ###### ChatBot commands:
-!follow - shows the last follower
-!uptime - show stream time
+- !follow - shows the last follower
+- !uptime - show stream time
 
 ###### RaffleBot commands:
-!raffle - Users use this to join raffle
-!runraffle - will pick the raffle winner
-
+- !raffle - Users use this to join raffle
+- !runraffle - will pick the raffle winner
 
 ###### FollowBot
 This script will call a file called sound.wav in the same directory so you need to add a sound for new followers
